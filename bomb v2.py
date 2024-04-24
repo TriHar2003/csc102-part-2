@@ -1,7 +1,7 @@
 #################################
 # CSC 102 Defuse the Bomb Project
 # Main Program
-# Team: Ricardo Rivera and Tristan Harris 
+# Team: Ricardo Rivera and Tristan Harris
 #################################
 
 # import the configs
